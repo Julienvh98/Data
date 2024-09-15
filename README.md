@@ -8,7 +8,7 @@
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Example Project](Optimizing Santander Cycles Pricing with Linear Regression and ARIMA.ipynb)
+[Example Project](https://github.com/Julienvh98/Optimizing-Santander-Cycles-Pricing)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
