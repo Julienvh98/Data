@@ -7,13 +7,21 @@
 - B.S.c , Management Sciences | Loughborough University (_June 2020_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Example Project](https://github.com/Julienvh98/Optimizing-Santander-Cycles-Pricing/blob/main/Optimizing%20Santander%20Cycles%20Pricing%20with%20Linear%20Regression%20and%20ARIMA.ipynb)
+### Optimizing Santander Cycles Pricing with Linear Regression and ARIMA
+[Github Link](https://github.com/Julienvh98/Optimizing-Santander-Cycles-Pricing/blob/main/Optimizing%20Santander%20Cycles%20Pricing%20with%20Linear%20Regression%20and%20ARIMA.ipynb)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Predicting Worldwide Gross Income of Movies using IMDb Data
+[Github Link](https://github.com/Julienvh98/Predicting-Worldwide-Revenue-of-Movies-using-IMDb-Data/blob/main/Predictive%20Analytics%20Final.ipynb)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
- Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Disseration
+The low-cost air quality monitoring industry is an emerging space, with few competitors in the market. In this project, an interactive 
+web app dashboard was built for the air quality monitoring startup, CompAir. The process and 
+decisions around the development of the dashboard using Streamlit and Heroku are explained.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+Figure 48 Map 
+
+Figure 49 Average Humidity
+
+Figure 51 VOCS in the Last 30 days
+
+
