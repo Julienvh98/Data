@@ -14,15 +14,13 @@
 [Github Link](https://github.com/Julienvh98/Predicting-Worldwide-Revenue-of-Movies-using-IMDb-Data/blob/main/Predictive%20Analytics%20Final.ipynb)
 
 Models: 
-- Ridge Regression
-- Lasso Regression
-- ElasticNet Regression
+- Ridge, Lasso & ElasticNet Regressions
 - Stochastic Gradient Descent Regressor
 - Support Vector Regression
-Decision Tree
-RandomForest
-XGBoost Regressor
-Multi-layer Perceptron Regressor (Neural Network)
+- Decision Tree
+- RandomForest
+- XGBoost Regressor
+- Multi-layer Perceptron Regressor (Neural Network)
 
 ### Indoor Air Quality Interactive Dashboard with Streamlit MSc UCL Disseration
 Mark: Distinction (1st)
