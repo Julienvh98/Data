@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, R, Qliksense
 
 ## Education						       		
-M.S.c , Business Analytics	| University College London 		        		
-B.S.c , Management Sciences | Loughborough University
+- M.S.c , Business Analytics	| University College London 		        		
+- B.S.c , Management Sciences | Loughborough University
 
 ## Projects
 ### Optimizing Santander Cycles Pricing with Linear Regression and ARIMA
