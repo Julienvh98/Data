@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, R, Qliksense
 
 ## Education						       		
-- M.S.c , Business Analytics	| University College London 		        		
-- B.S.c , Management Sciences | Loughborough University
+- M.S.c Business Analytics	| University College London 		        		
+- B.S.c Management Sciences | Loughborough University
 
 ## Projects
 ### Optimizing Santander Cycles Pricing with Linear Regression and ARIMA
@@ -36,6 +36,7 @@ The low-cost air quality monitoring industry is an emerging space, with few comp
 ![](/assets/PM25.png)
 
 ![](/assets/Map1.png)
+
 
 
 
