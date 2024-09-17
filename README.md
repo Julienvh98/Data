@@ -24,6 +24,8 @@ The low-cost air quality monitoring industry is an emerging space, with few comp
 
 ![](/assets/PM1.png)
 
+replace![image](/assets/PM1.png) with <img src=/assets/PM1.png width="450"> 
+
 ![](/assets/PM25.png)
 
 ![](/assets/Map1.png)
