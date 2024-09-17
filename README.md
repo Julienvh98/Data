@@ -20,6 +20,8 @@ decisions around the development of the dashboard using Streamlit and Heroku are
 
 ![PM1](/assets/PM1.png)
 
+<img src=/assets/PM1.png width="60">
+
 
 
 
