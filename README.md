@@ -19,8 +19,8 @@ web app dashboard was built for the air quality monitoring startup, CompAir. The
 decisions around the development of the dashboard using Streamlit and Heroku are explained.
 
 <img src=/assets/PM1.png width="450">
-<img src=/assets/PM2.5 .png width="450">
-<img src=/assets/Humidity.png width="450">
-<img src=/assets/Map.png width="450">
+<img src=/assets/PM25.png width="450">
+<img src=/assets/Humidity.png width="350">
+<img src=/assets/Map.png width="350">
 
 
