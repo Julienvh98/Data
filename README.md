@@ -24,7 +24,7 @@ The low-cost air quality monitoring industry is an emerging space, with few comp
 
 <img src=/assets/PM1.png width="450">
 <img src=/assets/PM25.png width="450">
-<img src=/assets/Map1.png width="400">
+<img src=/assets/Map1.png width="450">
 
 
 
