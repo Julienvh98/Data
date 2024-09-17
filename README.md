@@ -20,7 +20,7 @@ The low-cost air quality monitoring industry is an emerging space, with few comp
 
 [Github Link](https://github.com/Julienvh98/Indoor-Air-Quality-Interactive-Dashboard-with-Streamlit/blob/master/main.py)
 
-[Dissertation PDF](/assets/MSIN0114 Dissertation.pdf)
+[Dissertation PDF](https://github.com/Julienvh98/julienvh98.github.io/blob/main/assets/MSIN0114%20Dissertation.pdf)
 
 <img src=/assets/PM1.png width="450">
 <img src=/assets/PM25.png width="450">
