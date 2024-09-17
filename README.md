@@ -18,10 +18,8 @@ The low-cost air quality monitoring industry is an emerging space, with few comp
 web app dashboard was built for the air quality monitoring startup, CompAir. The process and 
 decisions around the development of the dashboard using Streamlit and Heroku are explained.
 
-Figure 48 Map 
+![PM1](/assets/PM1.png)
 
-Figure 49 Average Humidity
 
-Figure 51 VOCS in the Last 30 days
 
 
