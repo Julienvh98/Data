@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Projects
 
 #### Technical Skills: Python, SQL, AWS, R, Qliksense
 
