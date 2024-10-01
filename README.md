@@ -2,11 +2,6 @@
 
 #### Technical Skills: Python, SQL, AWS, R, Qliksense
 
-## Education						       		
-+ M.S.c Business Analytics from University College London
-+ B.S.c Management Sciences from Loughborough University
-
-## Projects
 ### Optimizing Santander Cycles Pricing with Linear Regression and ARIMA
 [Github Link](https://github.com/Julienvh98/Optimizing-Santander-Cycles-Pricing/blob/main/Optimizing%20Santander%20Cycles%20Pricing%20with%20Linear%20Regression%20and%20ARIMA.ipynb)
 
